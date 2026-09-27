@@ -48,7 +48,7 @@ Material:
     - _GridScale: 1
     - _Grid_Scale: 1
     - _OverlayAmount: 0.5
-    - _Overlay_Amount: 0.5
+    - _Overlay_Amount: 0.733
     - _QueueControl: 0
     - _QueueOffset: 0
     - __dirty: 1
